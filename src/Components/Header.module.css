@@ -1,0 +1,7 @@
+.navList{
+    display: flex;
+}
+
+.navList:hover{
+    color: blue;
+}
